@@ -1,0 +1,164 @@
+Uri: https://online.bpi.com.ph/portalserver/onlinebanking/sign-in
+File Name: C:\Downloaded Web Sites\online.bpi.com.ph\portalserver\onlinebanking\sign-in.html
+Content Type: text/html
+
+Uri: https://online.bpi.com.ph/portalserver/static/features/[BBHOST]/assets/images/favicon.png
+File Name: C:\Downloaded Web Sites\online.bpi.com.ph\portalserver\static\features\[BBHOST]\assets\images\favicon.png
+Content Type: image/png
+
+Uri: https://online.bpi.com.ph/portalserver/static/features/[BBHOST]/assets/images/safari-pinned-tab.svg
+File Name: C:\Downloaded Web Sites\online.bpi.com.ph\portalserver\static\features\[BBHOST]\assets\images\safari-pinned-tab.svg
+Content Type: image/svg+xml
+
+Uri: https://online.bpi.com.ph/portalserver/static/features/[BBHOST]/assets/images/apple-icon-57x57.png
+File Name: C:\Downloaded Web Sites\online.bpi.com.ph\portalserver\static\features\[BBHOST]\assets\images\apple-icon-57x57.png
+Content Type: image/png
+
+Uri: https://online.bpi.com.ph/portalserver/static/features/[BBHOST]/assets/images/apple-icon-180x180.png
+File Name: C:\Downloaded Web Sites\online.bpi.com.ph\portalserver\static\features\[BBHOST]\assets\images\apple-icon-180x180.png
+Content Type: image/png
+
+Uri: https://online.bpi.com.ph/portalserver/static/features/[BBHOST]/assets/images/android-icon-192x192.png
+File Name: C:\Downloaded Web Sites\online.bpi.com.ph\portalserver\static\features\[BBHOST]\assets\images\android-icon-192x192.png
+Content Type: image/png
+
+Uri: https://online.bpi.com.ph/portalserver/static/portalclient/css/normalize.min.css
+File Name: C:\Downloaded Web Sites\online.bpi.com.ph\portalserver\static\portalclient\css\normalize.min.css
+Content Type: text/css
+
+Uri: https://online.bpi.com.ph/portalserver/static/portalclient/css/backbase-portal.css
+File Name: C:\Downloaded Web Sites\online.bpi.com.ph\portalserver\static\portalclient\css\backbase-portal.css
+Content Type: text/css
+
+Uri: https://online.bpi.com.ph/portalserver/static/features/[BBHOST]/theme-bpi-retail/styles/theme-bpi-retail.css
+File Name: C:\Downloaded Web Sites\online.bpi.com.ph\portalserver\static\features\[BBHOST]\theme-bpi-retail\styles\theme-bpi-retail.css
+Content Type: text/css
+
+Uri: https://online.bpi.com.ph/portalserver/static/backbase.com.2013.aurora/containers/ManageableArea/css/ManageableArea.css
+File Name: C:\Downloaded Web Sites\online.bpi.com.ph\portalserver\static\backbase.com.2013.aurora\containers\ManageableArea\css\ManageableArea.css
+Content Type: text/css
+
+Uri: https://online.bpi.com.ph/portalserver/static/containers/[BBHOST]/container-box/styles/box.css
+File Name: C:\Downloaded Web Sites\online.bpi.com.ph\portalserver\static\containers\[BBHOST]\container-box\styles\box.css
+Content Type: text/css
+
+Uri: https://online.bpi.com.ph/portalserver/static/containers/[BBHOST]/container-panel/styles/panel.css
+File Name: C:\Downloaded Web Sites\online.bpi.com.ph\portalserver\static\containers\[BBHOST]\container-panel\styles\panel.css
+Content Type: text/css
+
+Uri: https://online.bpi.com.ph/portalserver/static/widgets/[BBHOST]/BackgroundWidget/css/templates.css
+File Name: C:\Downloaded Web Sites\online.bpi.com.ph\portalserver\static\widgets\[BBHOST]\BackgroundWidget\css\templates.css
+Content Type: text/css
+
+Uri: https://online.bpi.com.ph/portalserver/static/ext-lib/vendor.js?v=5.7.0.0-2017-07-3106:09
+File Name: C:\Downloaded Web Sites\online.bpi.com.ph\portalserver\static\ext-lib\vendor.js
+Content Type: application/javascript
+
+Uri: https://online.bpi.com.ph/portalserver/static/features/[BBHOST]/vendor-bb-core-js/scripts/vendor-bb-core-js.js
+File Name: C:\Downloaded Web Sites\online.bpi.com.ph\portalserver\static\features\[BBHOST]\vendor-bb-core-js\scripts\vendor-bb-core-js.js
+Content Type: application/javascript
+
+Uri: https://online.bpi.com.ph/portalserver/static/features/[BBHOST]/vendor-bb-angular/scripts/vendor-bb-angular.js
+File Name: C:\Downloaded Web Sites\online.bpi.com.ph\portalserver\static\features\[BBHOST]\vendor-bb-angular\scripts\vendor-bb-angular.js
+Content Type: application/javascript
+
+Uri: https://online.bpi.com.ph/portalserver/static/backbase.com.2012.aurora/js/aurora-lib.min.js?v=5.7.0.0-2017-07-3106:09
+File Name: C:\Downloaded Web Sites\online.bpi.com.ph\portalserver\static\backbase.com.2012.aurora\js\aurora-lib.min.js
+Content Type: application/javascript
+
+Uri: https://online.bpi.com.ph/portalserver/static/templates/[BBHOST]/BpiRetailTemplate/scripts/main.js
+File Name: C:\Downloaded Web Sites\online.bpi.com.ph\portalserver\static\templates\[BBHOST]\BpiRetailTemplate\scripts\main.js
+Content Type: application/javascript
+
+Uri: https://online.bpi.com.ph/portalserver/static/backbase.com.2013.aurora/containers/ManageableArea/js/ManageableArea.js
+File Name: C:\Downloaded Web Sites\online.bpi.com.ph\portalserver\static\backbase.com.2013.aurora\containers\ManageableArea\js\ManageableArea.js
+Content Type: application/javascript
+
+Uri: https://online.bpi.com.ph/portalserver/templates/ManageableArea/template.js
+File Name: C:\Downloaded Web Sites\online.bpi.com.ph\portalserver\templates\ManageableArea\template.js
+Content Type: text/javascript
+
+Uri: https://online.bpi.com.ph/portalserver/templates/SimpleBoxContainer/template.js
+File Name: C:\Downloaded Web Sites\online.bpi.com.ph\portalserver\templates\SimpleBoxContainer\template.js
+Content Type: text/javascript
+
+Uri: https://online.bpi.com.ph/portalserver/static/containers/[BBHOST]/container-box/scripts/box.js
+File Name: C:\Downloaded Web Sites\online.bpi.com.ph\portalserver\static\containers\[BBHOST]\container-box\scripts\box.js
+Content Type: application/javascript
+
+Uri: https://online.bpi.com.ph/portalserver/static/features/[BBHOST]/vendor-bb-systemjs/scripts/vendor-bb-systemjs.js
+File Name: C:\Downloaded Web Sites\online.bpi.com.ph\portalserver\static\features\[BBHOST]\vendor-bb-systemjs\scripts\vendor-bb-systemjs.js
+Content Type: application/javascript
+
+Uri: https://online.bpi.com.ph/portalserver/static/features/[BBHOST]/config-bb-module-loader/scripts/config-bb-module-loader.js
+File Name: C:\Downloaded Web Sites\online.bpi.com.ph\portalserver\static\features\[BBHOST]\config-bb-module-loader\scripts\config-bb-module-loader.js
+Content Type: application/javascript
+
+Uri: https://online.bpi.com.ph/portalserver/static/features/[BBHOST]/lib-bb-start/scripts/lib-bb-start.js
+File Name: C:\Downloaded Web Sites\online.bpi.com.ph\portalserver\static\features\[BBHOST]\lib-bb-start\scripts\lib-bb-start.js
+Content Type: application/javascript
+
+Uri: https://online.bpi.com.ph/portalserver/static/features/[BBHOST]/structured-content/scripts/structured-content.js
+File Name: C:\Downloaded Web Sites\online.bpi.com.ph\portalserver\static\features\[BBHOST]\structured-content\scripts\structured-content.js
+Content Type: application/javascript
+
+Uri: https://online.bpi.com.ph/portalserver/templates/PanelContainer/template.js
+File Name: C:\Downloaded Web Sites\online.bpi.com.ph\portalserver\templates\PanelContainer\template.js
+Content Type: text/javascript
+
+Uri: https://online.bpi.com.ph/portalserver/static/containers/[BBHOST]/container-panel/scripts/panel.js
+File Name: C:\Downloaded Web Sites\online.bpi.com.ph\portalserver\static\containers\[BBHOST]\container-panel\scripts\panel.js
+Content Type: application/javascript
+
+Uri: https://online.bpi.com.ph/portalserver/static/widgets/[BBHOST]/BPIContentWidget/js/content.js
+File Name: C:\Downloaded Web Sites\online.bpi.com.ph\portalserver\static\widgets\[BBHOST]\BPIContentWidget\js\content.js
+Content Type: application/javascript
+
+Uri: https://online.bpi.com.ph/portalserver/static/widgets/[BBHOST]/BackgroundWidget/js/content.js
+File Name: C:\Downloaded Web Sites\online.bpi.com.ph\portalserver\static\widgets\[BBHOST]\BackgroundWidget\js\content.js
+Content Type: application/javascript
+
+Uri: https://online.bpi.com.ph/portalserver/content/atom/beeb9475-6026-4046-b2b1-85d7b83b99b0/content/Background/Web Login_Feb 23, 2021.jpg?id=c168ed0a-706b-4086-8903-403214fd2e34
+File Name: C:\Downloaded Web Sites\online.bpi.com.ph\portalserver\content\atom\beeb9475-6026-4046-b2b1-85d7b83b99b0\content\Background\Web Login_Feb 23, 2021.jpg
+Content Type: image/jpeg
+
+Uri: https://online.bpi.com.ph/portalserver/onlinebanking/sign-in?errorMessage=Page doesn't exist for this friendly url, generated url or UUID : onlinebanking%2F{{+%24ctrl.links.homePageUrl+}}
+File Name: C:\Downloaded Web Sites\online.bpi.com.ph\portalserver\onlinebanking\sign-in-1.html
+Content Type: text/html
+
+Uri: https://online.bpi.com.ph/portalserver/onlinebanking/sign-in?errorMessage=Page doesn't exist for this friendly url, generated url or UUID : onlinebanking%2F{{+%24ctrl.links.bpiExpressOnlineHomeUrl+}}
+File Name: C:\Downloaded Web Sites\online.bpi.com.ph\portalserver\onlinebanking\sign-in-2.html
+Content Type: text/html
+
+Uri: https://online.bpi.com.ph/portalserver/onlinebanking/sign-in?errorMessage=Page doesn't exist for this friendly url, generated url or UUID : onlinebanking%2F{{+%24ctrl.links.bpiExpressOnlineContactUsUrl+}}
+File Name: C:\Downloaded Web Sites\online.bpi.com.ph\portalserver\onlinebanking\sign-in-3.html
+Content Type: text/html
+
+Uri: https://online.bpi.com.ph/portalserver/onlinebanking/sign-in?errorMessage=Page doesn't exist for this friendly url, generated url or UUID : onlinebanking%2F{{+%24ctrl.links.privacyPolicyUrl+}}
+File Name: C:\Downloaded Web Sites\online.bpi.com.ph\portalserver\onlinebanking\sign-in-4.html
+Content Type: text/html
+
+Uri: https://online.bpi.com.ph/portalserver/onlinebanking/sign-in?errorMessage=Page doesn't exist for this friendly url, generated url or UUID : onlinebanking%2F{{+%24ctrl.links.serviceAgreementUrl+}}
+File Name: C:\Downloaded Web Sites\online.bpi.com.ph\portalserver\onlinebanking\sign-in-5.html
+Content Type: text/html
+
+Uri: https://online.bpi.com.ph/portalserver/onlinebanking/sign-in?errorMessage=Page doesn't exist for this friendly url, generated url or UUID : onlinebanking%2F{{+%24ctrl.links.securityUrl+}}
+File Name: C:\Downloaded Web Sites\online.bpi.com.ph\portalserver\onlinebanking\sign-in-6.html
+Content Type: text/html
+
+Uri: https://online.bpi.com.ph/portalserver/onlinebanking/sign-in?errorMessage=Page doesn't exist for this friendly url, generated url or UUID : onlinebanking%2F{{+%24ctrl.sslLogo.redirectUrl+}}
+File Name: C:\Downloaded Web Sites\online.bpi.com.ph\portalserver\onlinebanking\sign-in-7.html
+Content Type: text/html
+
+Uri: https://online.bpi.com.ph/portalserver/onlinebanking/sign-in?errorMessage=Page doesn't exist for this friendly url, generated url or UUID : onlinebanking%2F%24(contextRoot)%2Fcontenttemplates%2Frendered-structured-content
+File Name: C:\Downloaded Web Sites\online.bpi.com.ph\portalserver\onlinebanking\sign-in-8.html
+Content Type: text/html
+
+Uri: https://online.bpi.com.ph/portalserver/onlinebanking/sign-in?errorMessage=Page doesn't exist for this friendly url, generated url or UUID : onlinebanking%2F%24(contextRoot)%2Fstatic%2Ffeatures%2F[BBHOST]%2F%24{extension}%2Ftemplates%2Ftemplate.ng.html
+File Name: C:\Downloaded Web Sites\online.bpi.com.ph\portalserver\onlinebanking\sign-in-9.html
+Content Type: text/html
+
+Uri: https://online.bpi.com.ph/portalserver/onlinebanking/sign-in?errorMessage=Page doesn't exist for this friendly url, generated url or UUID : onlinebanking%2F%24(contextRoot)%2Fcontenttemplates%2Frendered
+File Name: C:\Downloaded Web Sites\online.bpi.com.ph\portalserver\onlinebanking\sign-in-10.html
+Content Type: text/html
+

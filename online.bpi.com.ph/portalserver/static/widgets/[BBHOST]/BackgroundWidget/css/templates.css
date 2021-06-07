@@ -1,0 +1,20 @@
+/* Image only */
+.image-bpi-background-hide {
+    display : none;
+}
+.designMode .image-bpi-background-hide {
+    display : block;
+}
+.body-background{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.body-background__overlay{
+    top: 0;
+    left: 0;
+    z-index: -1;
+    position: fixed;
+    width: 100%;
+    height: 100vh;
+}

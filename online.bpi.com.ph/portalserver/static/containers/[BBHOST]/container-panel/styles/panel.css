@@ -1,0 +1,13 @@
+.hide-medium-widget {
+    display: none;
+}
+
+html.bd-designMode-true .bp-container[data-pid^="container-panel"] {
+    padding-top: 20px;
+}
+
+.bp-container,
+.bp-widget
+{
+    clear: both;
+}
